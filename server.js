@@ -1,8 +1,5 @@
-
+//dfdf
 //sakak
-var heros = [{id:1, name:"irena"},
-	{id:2, name:"irena"},
-	{id:3, name:"yosi"}];
 
 var express = require('express');
 var app = express();
@@ -11,6 +8,9 @@ var http = require('http').Server(app);
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
+
+
+var heros = require('./heros.js');
 
 app.route("/heroes")
 	.get(function(req,res)
@@ -27,7 +27,7 @@ app.route("/heroes")
  .delete(function (req,res)
 	{
 		for (var i = 0; i < heros.length; i++) {
-			if (heros[i].name == req.query['name']) {
+			if (heros[i].name.contains(req.query['name']) ) {
 				heros.splice(i,1);
 
 			}
@@ -43,7 +43,7 @@ app.route("/heroes/:id")
 	.put(function (req,res){
 		for (var i = 0; i < heros.length; i++) {
 			if (heros[i].id === req.params.id-1) {
-				heros[i].name = "emma";// req.params.name
+				heros[i].name = req.query['name'];
 				break;
 			}
 		}
