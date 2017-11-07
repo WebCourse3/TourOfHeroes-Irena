@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2951f9bb-bdca-40c4-880c-1ce2a46839a5" name="Default" comment="">
+    <list default="true" id="2951f9bb-bdca-40c4-880c-1ce2a46839a5" name="Default" comment="edited the problems in roie's and mine sakak">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/heroesRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logger.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/heros.js" afterPath="$PROJECT_DIR$/heros.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,14 +23,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heroesRouter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/heroesRouter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="98" column="11" lean-forward="true" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logger.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logger.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -33,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/heros.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -44,6 +88,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -57,20 +102,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sakak" />
+        <entry key="$PROJECT_DIR$" value="newDay_stillTest" />
       </map>
     </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response1.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/public/js/heros.js" />
         <option value="$PROJECT_DIR$/public/heros.js" />
+        <option value="$PROJECT_DIR$/test-server.js" />
+        <option value="$PROJECT_DIR$/heroesRouter.js" />
         <option value="$PROJECT_DIR$/heros.js" />
+        <option value="O:/NodeJS+EXPRESS/mockExample/test/superCalulatorTest.js" />
+        <option value="$PROJECT_DIR$/someMock.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/logger.js" />
+        <option value="$PROJECT_DIR$/configuration.ts" />
+        <option value="$PROJECT_DIR$/logger.ts" />
+        <option value="$PROJECT_DIR$/check.js" />
+        <option value="$PROJECT_DIR$/test.js" />
       </list>
     </option>
   </component>
@@ -105,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +168,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -125,6 +176,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -995,6 +1047,65 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Mocha.Heroes.Heroes Testing.should list ALL heroes on /heroes GET">
+    <configuration name="Heroes.Heroes Testing.should list ALL heroes on /heroes GET" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test.js</test-file>
+      <test-names>
+        <name value="Heroes" />
+        <name value="Heroes Testing" />
+        <name value="should list ALL heroes on /heroes GET" />
+      </test-names>
+    </configuration>
+    <configuration name="Math" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test.js</test-file>
+      <test-names>
+        <name value="Math" />
+      </test-names>
+    </configuration>
+    <configuration name="Math.#abs()" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test.js</test-file>
+      <test-names>
+        <name value="Math" />
+        <name value="#abs()" />
+      </test-names>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.Math" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Math.#abs()" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.Heroes.Heroes Testing.should list ALL heroes on /heroes GET" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Mocha.Heroes.Heroes Testing.should list ALL heroes on /heroes GET" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Math.#abs()" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.Math" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -1006,7 +1117,9 @@
       <option name="presentableId" value="Default" />
       <updated>1509607629389</updated>
       <workItem from="1509607631027" duration="13214000" />
-      <workItem from="1509865473590" duration="1900000" />
+      <workItem from="1509865473590" duration="2576000" />
+      <workItem from="1509951613777" duration="10719000" />
+      <workItem from="1510045905107" duration="8725000" />
     </task>
     <task id="LOCAL-00001" summary="the server side of tour of heroes">
       <created>1509624155686</created>
@@ -1015,11 +1128,50 @@
       <option name="project" value="LOCAL" />
       <updated>1509624155686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="the server side of tour of heroes after first sakak">
+      <created>1509873881884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509873881884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Heroes_Heroes_Testing_should_list_ALL_heroes_on__heroes_GET - 2017.11.06 at 15h 42m 42s.xml">
+      <configuration name="Heroes.Heroes Testing.should list ALL heroes on /heroes GET" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Heroes_Heroes_Testing_should_list_ALL_heroes_on__heroes_GET - 2017.11.06 at 15h 44m 31s.xml">
+      <configuration name="Heroes.Heroes Testing.should list ALL heroes on /heroes GET" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Heroes_Heroes_Testing_should_list_ALL_heroes_on__heroes_GET - 2017.11.06 at 15h 44m 37s.xml">
+      <configuration name="Heroes.Heroes Testing.should list ALL heroes on /heroes GET" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Heroes_Heroes_Testing_should_list_ALL_heroes_on__heroes_GET - 2017.11.06 at 15h 52m 50s.xml">
+      <configuration name="Heroes.Heroes Testing.should list ALL heroes on /heroes GET" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Math_#abs() - 2017.11.06 at 13h 47m 05s.xml">
+      <configuration name="Math.#abs()" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Math_#abs() - 2017.11.06 at 13h 47m 20s.xml">
+      <configuration name="Math.#abs()" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Math_#abs() - 2017.11.06 at 13h 47m 30s.xml">
+      <configuration name="Math.#abs()" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Math_#abs() - 2017.11.06 at 14h 52m 41s.xml">
+      <configuration name="Math.#abs()" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Math_#abs() - 2017.11.06 at 15h 42m 00s.xml">
+      <configuration name="Math.#abs()" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Math_#abs() - 2017.11.06 at 15h 42m 34s.xml">
+      <configuration name="Math.#abs()" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15114000" />
+    <option name="totallyTimeSpent" value="35234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1034,20 +1186,21 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2400636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23290938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30751446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1055,30 +1208,77 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/logger.js" />
+        <option value="$PROJECT_DIR$/configuration.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the server side of tour of heroes" />
-    <option name="LAST_COMMIT_MESSAGE" value="the server side of tour of heroes" />
+    <MESSAGE value="the server side of tour of heroes after first sakak" />
+    <option name="LAST_COMMIT_MESSAGE" value="the server side of tour of heroes after first sakak" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/heros.js">
+    <entry file="file://$PROJECT_DIR$/heroesRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/someMock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://O:/NodeJS+EXPRESS/mockExample/test/superCalulatorTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heros.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1096,11 +1296,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/heros.js" />
+    <entry file="file://$PROJECT_DIR$/test-server.js" />
+    <entry file="file://$PROJECT_DIR$/heros.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/someMock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://O:/NodeJS+EXPRESS/mockExample/test/superCalulatorTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heroesRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logger.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="98" column="11" lean-forward="true" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
